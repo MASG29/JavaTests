@@ -1,0 +1,93 @@
+🏰 A Taverna Medieval
+
+O teu cliente é fã de fantasia medieval e pediu-te para criar um sistema de gestão para a sua taverna. Aqui estão os requisitos:
+
+---
+
+Pessoa
+
+É a base de todos os empregados da taverna.
+
+Toda a pessoa tem um nome e uma idade.
+
+Qualquer pessoa sabe apresentar-se dizendo o seu nome e idade.
+
+Uma pessoa pode ser um Cozinheiro ou um Servente.
+
+---
+
+Cozinheiro
+
+É uma pessoa que trabalha na cozinha da taverna.
+
+Cada cozinheiro tem uma especialidade (ex: "carnes", "sopas", "sobremesas").
+
+Quando se apresenta, menciona sempre a sua especialidade.
+
+Sabe cozinhar qualquer prato que lhe seja pedido.
+
+---
+
+Servente
+
+É uma pessoa que serve os clientes da taverna.
+
+Cada servente tem um número de mesas que lhe estão atribuídas.
+
+Quando se apresenta, menciona quantas mesas serve.
+
+Sabe servir qualquer item do menu a um cliente.
+
+---
+
+Item
+
+Representa qualquer coisa que a taverna vende.
+
+Todo o item tem um nome e um preço.
+
+Qualquer item sabe descrever-se mostrando o nome e o preço.
+
+Um item pode ser uma Comida ou uma Bebida.
+
+---
+
+Comida
+
+É um item que precisa de ser preparado na cozinha.
+
+Cada comida tem um tempo de preparo em minutos.
+
+Quando se descreve, mostra também o tempo de preparo.
+
+---
+
+Bebida
+
+É um item que pode ou não ser alcoólico.
+
+Quando se descreve, indica se é alcoólica ou não.
+
+---
+
+A Taverna (programa principal)
+
+A taverna precisa de ter pelo menos 2 cozinheiros e 2 serventes.
+
+O menu da taverna deve ter pelo menos 3 comidas e 3 bebidas.
+
+A taverna deve conseguir listar todos os empregados e fazer cada um apresentar-se.
+
+A taverna deve conseguir mostrar o menu completo com a descrição de cada item.
+
+A taverna deve conseguir calcular o preço total de todo o menu.
+
+A taverna deve conseguir filtrar e mostrar apenas as bebidas alcoólicas do menu.
+
+A taverna deve conseguir simular um pedido: criar uma lista de items, calcular o total, fazer um servente servir cada item, e fazer um cozinheiro cozinhar cada comida.
+
+A taverna deve conseguir eleger o empregado do mês — o empregado mais velho de todos.
+
+---
+
+Boa sorte! 🍺⚔️
