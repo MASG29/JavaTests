@@ -37,7 +37,7 @@ public class Comida extends Item{
         stringBuilder.append(" | ");
         stringBuilder.append("Tempo de preparo: ");
         stringBuilder.append(tempo);
-        stringBuilder.append("minutos");
+        stringBuilder.append(" minutos");
         return stringBuilder.toString();
     }
 }

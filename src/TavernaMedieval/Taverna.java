@@ -28,10 +28,10 @@ public class Taverna {
             }
         }
 
-        Cozinheiro delegarCozinheiro = listaDeCozinheiros.get((int) (Math.random() * (listaDeCozinheiros.size() - 1)));
+        Cozinheiro delegarCozinheiro = listaDeCozinheiros.get((int) (Math.random() * listaDeCozinheiros.size()));
         System.out.println("O seu cozinheiro será: " + delegarCozinheiro);
 
-        Servente delegarServente = listaDeServentes.get((int) (Math.random() * (listaDeServentes.size() - 1)));
+        Servente delegarServente = listaDeServentes.get((int) (Math.random() * listaDeServentes.size()));
         System.out.println("O seu Servente será: " + delegarServente);
 
         delegarCozinheiro.cook(comida);
