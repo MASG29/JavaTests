@@ -1,6 +1,7 @@
 🏰 A Taverna Medieval
 
-O teu cliente é fã de fantasia medieval e pediu-te para criar um sistema de gestão para a sua taverna. Aqui estão os requisitos:
+O teu cliente é fã de fantasia medieval e pediu-te para criar um sistema de gestão
+para a sua taverna. Aqui estão os requisitos:
 
 ---
 
@@ -72,21 +73,31 @@ Quando se descreve, indica se é alcoólica ou não.
 
 A Taverna (programa principal)
 
-A taverna precisa de ter pelo menos 2 cozinheiros e 2 serventes.
+A taverna precisa de ter pelo menos 2 cozinheiros
+ e 2 serventes.
 
-O menu da taverna deve ter pelo menos 3 comidas e 3 bebidas.
+O menu da taverna deve ter pelo menos 3 comidas
+ e 3 bebidas.
 
-A taverna deve conseguir listar todos os empregados e fazer cada um apresentar-se.
+A taverna deve conseguir listar todos os empregados
+ e fazer cada um apresentar-se.
 
-A taverna deve conseguir mostrar o menu completo com a descrição de cada item.
+A taverna deve conseguir mostrar o menu completo
+ com a descrição de cada item.
 
-A taverna deve conseguir calcular o preço total de todo o menu.
+A taverna deve conseguir calcular o preço total
+ de todo o menu.
 
-A taverna deve conseguir filtrar e mostrar apenas as bebidas alcoólicas do menu.
+A taverna deve conseguir filtrar e mostrar apenas
+ as bebidas alcoólicas do menu.
 
-A taverna deve conseguir simular um pedido: criar uma lista de items, calcular o total, fazer um servente servir cada item, e fazer um cozinheiro cozinhar cada comida.
+A taverna deve conseguir simular um pedido: criar
+ uma lista de items, calcular o total, fazer um
+ servente servir cada item, e fazer um cozinheiro
+  cozinhar cada comida.
 
-A taverna deve conseguir eleger o empregado do mês — o empregado mais velho de todos.
+A taverna deve conseguir eleger o empregado do
+ mês — o empregado mais velho de todos.
 
 ---
 
