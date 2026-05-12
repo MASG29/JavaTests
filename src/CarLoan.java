@@ -20,7 +20,7 @@ public class CarLoan {
             int monthlyBalance = remainingBalance / months;
             int interest = (monthlyBalance * interestRate) / 100;
             int monthlyPayment = monthlyBalance + interest;
-            System.out.println("Congrats you just got a Car Loan, your monthly payment is: " + monthlyPayment);
+            System.out.println("Congrats you just got a Serialization.Car Loan, your monthly payment is: " + monthlyPayment);
             this.carLoan = carLoan;
             this.loanLength = loanLength;
             this.interestRate = interestRate;
